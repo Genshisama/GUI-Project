@@ -11,6 +11,6 @@ package com.mycompany.biscuitorder;
 public class BiscuitOrder {
 
     public static void main(String[] args) {
-        System.out.println("Hello lalalalla!");
+        System.out.println("Hello alla!");
     }
 }
